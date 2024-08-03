@@ -1,3 +1,7 @@
+-=(MegaDrive_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # Nuked-MD port for MiSTer
 
 ![nukedmd_logo](rtl/nuked-md/nukedmd_logo.png)
